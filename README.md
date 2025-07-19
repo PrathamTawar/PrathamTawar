@@ -53,37 +53,12 @@ me.say_hi()
 ## 🏆 Featured Projects
 
 <div align="center">
-  
-### 🎯 Todo List Application
-**A modern task management app with real-time updates**
-<br>
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-<br>
-*Features: Real-time updates, responsive design*
 
----
-
-### 🛒 E-Commerce Website
-**Full-featured online shopping platform**
-<br>
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-<br>
-*Features: Payment integration, cart management, admin dashboard*
-
----
-
-### 📱 Social Media App
-**Connect and share with the world**
-<br>
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-<br>
-*Features: user authentication, image uploads, social feeds*
+| 🎯 **Todo List Application** | 🛒 **E-Commerce Website** | 📱 **Social Media App** |
+|:---:|:---:|:---:|
+| **A modern task management app with real-time updates** | **Full-featured online shopping platform** | **Connect and share with the world** |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| *Features: Real-time updates, responsive design* | *Features: Payment integration, cart management, admin dashboard* | *Features: user authentication, image uploads, social feeds* |
 
 </div>
 
